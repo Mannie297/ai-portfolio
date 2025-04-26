@@ -62,7 +62,8 @@ npm run dev
 
 This project is deployed on Vercel. Any push to the main branch will trigger an automatic deployment.
 
-### Deployment Configuration
+### Vercel Deployment Configuration
+- Framework Preset: Vite
 - Root Directory: `ai-portfolio`
 - Build Command: `npm run build`
 - Output Directory: `dist`
@@ -74,7 +75,6 @@ This project is deployed on Vercel. Any push to the main branch will trigger an 
 - Vite
 - Tailwind CSS
 - React Router
-- GitHub Pages
 
 ## Contributing
 
